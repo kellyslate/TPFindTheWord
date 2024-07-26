@@ -11,7 +11,7 @@ Ce projet permet de compter le nombre de fois qu'un mot spécifique apparaît da
 
 1. **Cloner le dépôt** :
     ```bash
-    git clone <URL_DU_DEPOT>
+    git clone <https://github.com/kellyslate/TPFindTheWord.git>
     cd <NOM_DU_REPERTOIRE>
     ```
 
